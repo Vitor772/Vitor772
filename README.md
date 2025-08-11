@@ -10,7 +10,7 @@
 I'm a results-driven professional focused on software development and systems analysis. I specialize in turning technical and business requirements into functional, high-performance, and scalable solutions.
 
 - 🎓 Degree in **Systems Analysis and Development**
-- 💻 Experience with **.NET**, **C#**, **ASP.NET MVC**, **SQL Server**, **Power BI**
+- 💻 Experience with **.NET**, **C#**, **ASP.NET MVC**, **SQL Server**, **React**, **Next.js**, **Angular**
 - 🧠 Strong logic and focus on **clean, maintainable code**
 - 🛠️ Knowledge of **software architecture**, **SOLID principles**, **Clean Code**, and **design patterns**
 
